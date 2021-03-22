@@ -1,5 +1,9 @@
 # Udacity-AI-Programming
 
+![certificate](certificate.png)
+
+
+
 Udacity AI Programming with Python Nanodegree Projects
 
 There are two main projects for this program
